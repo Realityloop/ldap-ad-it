@@ -1,4 +1,4 @@
-FROM openjdk:8u111-jre-alpine
+FROM openjdk:8u342-jre
 
 MAINTAINER Dieter Wimberger "dieter@wimpi.net"
 
